@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494659865 source:d:\workspaces\codeblocks\projecteuler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pub.h"
+
+1494659744 d:\workspaces\codeblocks\projecteuler\pub.h
+
+1494659765 source:d:\workspaces\codeblocks\projecteuler\problem1.c
+	"pub.h"
+
